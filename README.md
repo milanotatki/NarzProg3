@@ -1,5 +1,7 @@
 # NarzProg3
-NarzProg3
+NarzProg3 
+
+MILENA MRUGAŁA
 
 Build:
 <img width="1271" alt="Zrzut ekranu 2024-01-08 164309" src="https://github.com/milanotatki/NarzProg3/assets/153101487/dc9cda3d-80eb-4d9d-a96d-9a119a4ed4d5">
